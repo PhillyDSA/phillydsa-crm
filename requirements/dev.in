@@ -1,0 +1,11 @@
+-r base.txt
+pytest
+pre-commit
+pycodestyle
+pip-tools
+coverage
+pytest-cov
+pytest-django
+codecov
+django-template-debug
+ipdb
