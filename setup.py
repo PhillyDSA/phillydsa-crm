@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 from setuptools import find_packages, setup
 
@@ -16,7 +17,7 @@ setup(
     long_description=README,
     author='Chris Kaminski',
     author_email='chris.t.kaminski@gmail.com',
-    install_requires =[
+    install_requires=[
         'django'
     ],
     classifiers=[
